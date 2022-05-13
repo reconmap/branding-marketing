@@ -15,3 +15,11 @@ This repository contains Reconmap's graphic assets used for Branding and Marketi
 
 ![Icon 288x288](logos/icon-288.png?raw=true "Icon 288x288")
 
+## Social media image requirements
+
+### Twitter
+
+Recommended dimensions for profile images are 400x400 pixels. Recommended dimensions for header images are 1500x500 pixels.
+
+[Source](https://help.twitter.com/en/managing-your-account/common-issues-when-uploading-profile-photo)
+
