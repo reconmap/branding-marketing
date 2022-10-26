@@ -23,3 +23,13 @@ Recommended dimensions for profile images are 400x400 pixels. Recommended dimens
 
 [Source](https://help.twitter.com/en/managing-your-account/common-issues-when-uploading-profile-photo)
 
+### Linkedin
+
+1128x191
+
+### Github
+
+Social preview (open graph)
+
+Images should be at least 640×320px (1280×640px for best display).
+
