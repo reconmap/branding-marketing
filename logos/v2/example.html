@@ -1,0 +1,27 @@
+import Configuration from "Configuration";
+import { useTheme } from "hooks/useTheme";
+
+const HeaderLogo = () => {
+    const { theme } = useTheme();
+
+    return (
+        <>
+            <figure className="image" style={{ marginLeft: 20 }}>
+                <img alt="Logo" style={{ height: 42, marginTop: 10 }} src={Configuration.getLogoUrl()} />
+            </figure>
+            <h3 style={{ fontFamily: "Tahoma, sans-serif", fontSize: "1.7rem", fontWeight: "bold", marginTop: 10 }}>
+                <span style={{ color: theme === "dark" ? "#fff" : "var(--bulma-text)" }}>Net</span>
+                <span
+                    style={{
+                        color: "#aa0000ff",
+                    }}
+                >
+                    foe
+                </span>
+            </h3>
+        </>
+    );
+};
+
+export default HeaderLogo;
+
